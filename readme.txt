@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test add merge.
 Creating a new branch again is quick.
+Change text in master.
