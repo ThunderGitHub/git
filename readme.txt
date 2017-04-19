@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Test add merge.
 Creating a new branch again is quick.
 Change text in featurel.
+Test no ff in dev.
