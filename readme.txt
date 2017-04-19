@@ -11,4 +11,5 @@ Test ff in dev.
 Test ff in featurel.
 Test no ff in featurel.
 Doing something in dev.
+This is a clone test.
 This is a main text.
